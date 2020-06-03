@@ -6,6 +6,7 @@
 
 # Rafael Souza
 <sub>*Analista de Serviços de T.I* em Softplan</sub>
+</p>
 <sub>*Data Science Student* em Sigmoidal.ai</sub>
 
 Sou uma pessoa altamente motivada e organizada, com imensa vontade de aprender e ganhar experiência. Sou flexível: facilmente me adequando as novas mudanças no meu coditiano. Sempre mantenho a calma em qualquer situação estressante buscando ser perseverante para encontrar soluções para qualquer problema que enfrento. Paciência, independência e eficiência, portanto, são três das minhas maiores qualidades.
