@@ -20,7 +20,7 @@ Sou uma pessoa altamente motivada e organizada, com imensa vontade de aprender e
 
 ## Projetos:
 
-* **Analisando Dados do Airbnb:** Em construção
+* **Analisando Dados do Airbnb - Vancouver:** https://bit.ly/3gVlv1G
 
 
 ---
