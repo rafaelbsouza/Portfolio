@@ -21,6 +21,7 @@ Sou uma pessoa altamente motivada e organizada, com imensa vontade de aprender e
 ## Projetos:
 
 * **Analisando Dados do Airbnb - Vancouver:** https://bit.ly/3gVlv1G
+* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3fEMCN2
 
 
 ---
