@@ -22,6 +22,6 @@ Sou uma pessoa altamente motivada e organizada, com imensa vontade de aprender e
 
 * **Analisando Dados do Airbnb - Vancouver:** https://bit.ly/3gVlv1G
 * **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3fEMCN2
-
+* **Analisando o Cenário do Coronavírus no Brasil e no Mundo:** https://bit.ly/2ZhvHuD
 
 ---
